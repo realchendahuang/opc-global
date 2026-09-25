@@ -4,7 +4,11 @@
 > Global payment pipelines, Stripe verification, banking & tax compliance for indie builders.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/opc-global?style=social)](https://github.com/realchendahuang/opc-global)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/opc-global?style=social)](https://github.com/realchendahuang/opc-global/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/opc-global)](https://github.com/realchendahuang/opc-global/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/opc-global/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
